@@ -40,7 +40,7 @@ pyinstaller -w 'rfa.py'
 ```
 
 <br>
-<h2> If you want only 1 file without console, paste:</h2>
+<h5> If you want only 1 file without console, paste:</h5>
 <br>
 
 ```
