@@ -17,18 +17,25 @@
 <a>4) Rewrite adress to "powershell"</a>
 <br>
 <a>5) Paste following command in cmd</a>
+<br>
 ```
 pyinstaller 'rfa.py'
 ```
+<br>
 # If you want only 1 file, paste:
+<br>
 ```
 pyinstaller --onefile 'rfa.py'
 ```
+<br>
 # If you want it without console, paste:
+<br>
 ```
 pyinstaller -w 'rfa.py'
 ```
+<br>
 # If you want only 1 file without console, paste:
+<br>
 ```
 pyinstaller --onefile -w 'rfa.py'
 ```
