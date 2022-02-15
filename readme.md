@@ -1,4 +1,6 @@
-<h1>RFA</h1>
+<img src="rfa-logo.png">
+<br>
+<h1 text-align=center >RFA</h1>
 <br>
 <br>
 
