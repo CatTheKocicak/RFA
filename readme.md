@@ -5,4 +5,4 @@
 
 # How to convert source code to .exe? 
 
-<h3>1) Download</h3> <h3 href="github.com/CatTheKocicak/RFA/src">source code</h3>
+<a>1) Download</a> <a href="github.com/CatTheKocicak/RFA/src">source code</a>
