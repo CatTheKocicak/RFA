@@ -19,7 +19,6 @@
 <br>
 <a>5) Paste following command in cmd</a>
 <br>
-
 ```
 pyinstaller 'rfa.py'
 ```
