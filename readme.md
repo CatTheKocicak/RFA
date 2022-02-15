@@ -24,7 +24,7 @@ pyinstaller 'rfa.py'
 ```
 <br>
 
-# If you want only 1 file, paste:
+<h5> If you want only 1 file, paste: </h5>
 <br>
 
 ```
@@ -32,7 +32,7 @@ pyinstaller --onefile 'rfa.py'
 ```
 
 <br>
-# If you want it without console, paste:
+<h5> If you want it without console, paste:</h5>
 <br>
 
 ```
