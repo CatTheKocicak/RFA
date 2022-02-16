@@ -7,9 +7,11 @@
 # How to convert source code to .exe? 
 
 <a>1) Open cmd and paste following command:</a>
+
   ```
   pip install pyinstaller
   ```
+
 <br>
 <a>2) Download source code.</a>
 <br>
