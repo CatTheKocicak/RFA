@@ -4,51 +4,20 @@
 <br>
 <br>
 
-# How to convert source code to .exe? 
-
-<a>1) Open cmd and paste following command:</a>
-
-  ```
-  pip install pyinstaller
-  ```
+# How to convert source code to .exe?
+<a>check </a><a href="https://github.com/CatTheKocicak/RFA/blob/main/info/windows-exe.md">.exe setup guide</a>
 
 <br>
-<a>2) Download source code.</a>
-<br>
-<a>3) Unzip.</a>
-<br>
-<a>4) Rewrite adress to "powershell"</a>
-<br>
-<a>5) Paste following command in cmd</a>
-<br>
 
-```
-pyinstaller 'rfa.py'
-```
-
+# Links
+<a href="https://discord.kocicak.xyz/">Discord</a>
 <br>
-<h5> If you want only 1 file, paste: </h5>
+<a href="https://rfa.kocicak.xyz">Website</a>
 <br>
-
-```
-pyinstaller --onefile 'rfa.py'
-```
-
+<a href="https://tos.rfa.kocicak.xyz/">Terms Of Service</a>
 <br>
-<h5> If you want it without console, paste:</h5>
+<a href="https://github.com/CatTheKocicak/RFA/blob/main/info/tos.md">Terms Of Service (Github)</a>
 <br>
-
-```
-pyinstaller -w 'rfa.py'
-```
-
+<a href="https://github.com/HonzaLed">HonzaLed (Developer)</a>
 <br>
-<h5> If you want only 1 file without console, paste:</h5>
-<br>
-
-```
-pyinstaller --onefile -w 'rfa.py'
-```
-
-<br>
-<a>6) Go to "dist" folder and run rfa.exe</a>
+<a href="">Maxix (Designer)</a>
