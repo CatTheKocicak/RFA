@@ -20,4 +20,3 @@
 <br>
 <a href="https://github.com/HonzaLed">HonzaLed (Developer)</a>
 <br>
-<a href="">Maxix (Designer)</a>
