@@ -12,7 +12,14 @@
 <br>
 <a>3) Unzip.</a>
 <br>
-<a>4) Rewrite adress to "powershell"</a>
+<a>4) Change this:</a>
+<br>
+<br>
+<img src="adress1.png">
+<a>to powershell like this:</a>
+<br>
+<br>
+<img src="adress2.png">
 <br>
 <a>5) Paste following command in cmd</a>
 <br>
