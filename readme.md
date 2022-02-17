@@ -21,11 +21,12 @@
 <br>
 <a>5) Paste following command in cmd</a>
 <br>
+
 ```
 pyinstaller 'rfa.py'
 ```
-<br>
 
+<br>
 <h5> If you want only 1 file, paste: </h5>
 <br>
 
