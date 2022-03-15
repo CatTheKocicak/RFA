@@ -18,7 +18,8 @@ Because you can find interesting things on servers like todo etc.
 <br>
 # How to convert source code to .exe?
 <a>check </a><a href="https://github.com/CatTheKocicak/RFA/blob/main/info/windows-exe.md">.exe setup guide</a>
-
+# I need help!
+<i>If you need help join <a href="https://discord.kocicak.xyz/">our discord</a>.</i>
 <br>
 
 # Links
