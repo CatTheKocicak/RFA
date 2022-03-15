@@ -3,7 +3,17 @@
 <h1 text-align=center >RFA</h1>
 <br>
 <br>
-
+# This easy application allow you to check files on Replit server or servers on similar services
+*We are not responsible for any damage or problems with application or made by application*
+<br>
+<br>
+# Why use RFA?
+Because you can find interesting things on servers like todo etc.
+<br>
+# How to use
+<a href="https://github.com/CatTheKocicak/RFA/blob/main/info/windows.md">Windows</a>
+<a href="Other.md">Other OS</a>
+<br>
 # How to convert source code to .exe?
 <a>check </a><a href="https://github.com/CatTheKocicak/RFA/blob/main/info/windows-exe.md">.exe setup guide</a>
 
