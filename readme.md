@@ -4,7 +4,8 @@
 <br>
 <br>
 # This easy application allow you to check files on Replit server or servers on similar services
-*We are not responsible for any damage or problems with application or made by application*
+<br>
+<i>We are not responsible for any damage or problems with application or made by application</i>
 <br>
 <br>
 # Why use RFA?
