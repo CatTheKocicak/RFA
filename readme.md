@@ -3,8 +3,8 @@
 <h1 text-align=center >RFA</h1>
 <br>
 <br>
-# This easy application allow you to check files on Replit server or servers on similar services
-<br>
+<h4>This easy application allow you to check files on Replit server or servers on similar services</h2>
+
 <i>We are not responsible for any damage or problems with application or made by application</i>
 <br>
 <br>
