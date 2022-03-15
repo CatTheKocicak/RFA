@@ -3,7 +3,7 @@
 <b>- Download latest release</b>
 <br>
 <br>
-<b>- Run .exe file</b>
+<b>- Run RFA.py file or convert to .exe and run RFA.exe file</b>
 <br>
 <br>
 <b>Enjoy!</b>
