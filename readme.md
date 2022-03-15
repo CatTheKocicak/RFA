@@ -33,3 +33,4 @@ Because you can find interesting things on servers like todo etc.
 <br>
 <a href="https://github.com/HonzaLed">HonzaLed (Developer)</a>
 <br>
+<a href"https://github.com/CatTheKocicak/RFA/blob/main/info/code_of_conduct.md">Code of conduct</a>
