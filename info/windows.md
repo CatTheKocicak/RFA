@@ -1,7 +1,7 @@
 # How to use on windows?
 <br>
-**- *Download latest release***
+***Download latest release***
 <br>
-**- *Run .exe file***
+***Run .exe file***
 <br>
 Enjoy!
