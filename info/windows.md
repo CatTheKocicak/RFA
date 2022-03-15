@@ -1,7 +1,9 @@
 # How to use on windows?
 <br>
-***Download latest release***
+<b>- Download latest release</b>
 <br>
-***Run .exe file***
 <br>
-Enjoy!
+<b>- Run .exe file</b>
+<br>
+<br>
+<b>Enjoy!</b>
