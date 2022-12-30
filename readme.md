@@ -34,3 +34,7 @@ Because you can find interesting things on servers like todo etc.
 <a href="https://github.com/HonzaLed">HonzaLed (Developer)</a>
 <br>
 <a href="https://github.com/CatTheKocicak/RFA/blob/main/info/code_of_conduct.md">Code of conduct</a>
+<br>
+<br>
+<br>
+<h4>Note: we will not provide support for this project anymore, if you want you can still get support on our discord server</h4>
